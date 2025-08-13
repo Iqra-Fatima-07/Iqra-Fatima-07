@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me:
 - 🌱 I’m currently learning  *programming* ,*Artificial Intelligence* and *Prompt Engineering*.
-- 🎓 I’m a passionate *first-year student*.
+- 🎓 I’m a passionate *second-year student*.
 - 🏆 I’ve always been the topper of my class and strive for excellence.
 - 💡 I’m interested in *coding, **reading books, and exploring **new technologies*.
 - 🤝 I’m looking to collaborate on *AI and programming projects*.
