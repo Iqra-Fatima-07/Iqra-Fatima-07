@@ -1,7 +1,7 @@
 # Hi there, I'm Iqra Fatima! 👋
 
 # 👩‍💻 About Me:
-- 🌱 I’m currently learning  *programming* ,*Artificial Intelligence* and *Prompt Engineering*.
+- 🌱 I’m currently learning  *programming* ,*Artificial Intelligence* and *DSA*
 - 🎓 I’m a passionate *second-year student*.
 - 🏆 I’ve always been the topper of my class and strive for excellence.
 - 💡 I’m interested in *coding, **reading books, and exploring **new technologies*.
