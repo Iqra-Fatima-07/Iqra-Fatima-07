@@ -56,7 +56,7 @@
 </p>
 
 ---
-
+<!--
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -96,8 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iqra-fatima&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
----
-
+---->
 # ✨ Quote I Believe In
 
 > 💗 Think. Build. Evolve.*
