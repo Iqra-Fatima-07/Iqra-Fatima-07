@@ -11,7 +11,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto: iqraafatima007@gmail.com">
     <img src="https://img.shields.io/badge/Email-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/iqra-fatima007">
@@ -35,7 +35,7 @@
 
 ## 👩‍💻 About Me  
 
-Hi, I'm **Iqra Fatima** - a passionate CSE-AI student and aspiring AI Engineer from India.  
+Hi, I'm **Iqra Fatima** - a Computer Science Engineering student specializing in Artificial Intelligence from India.
 
 - 🎯 Currently in my 2nd year, building strong foundations in **Data Structures & Algorithms (C++)**
 - 🤖 Focused on becoming a skilled **AI/ML Engineer** through consistent hands-on projects
