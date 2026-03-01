@@ -32,6 +32,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=4000&pause=800&color=9D4EDD&center=true&vCenter=true&width=750&repeat=true&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Deep+Learning+Developer;Learning+%26+Building+AI+Systems;Solving+DSA+Regularly" />
 </p>
 
+
+## 👩‍💻 About Me  
+
+Hi, I'm **Iqra Fatima** - a passionate CSE-AI student and aspiring AI Engineer from India.  
+
+- 🎯 Currently in my 2nd year, building strong foundations in **Data Structures & Algorithms (C++)**
+- 🤖 Focused on becoming a skilled **AI/ML Engineer** through consistent hands-on projects
+- 🧠 Exploring Machine Learning, Deep Learning, and intelligent system design
+- 🌐 Building full-stack AI applications that combine logic with real-world impact
+- 🚀 Working towards building impactful AI products in the future
+
+I believe in mastering fundamentals, thinking analytically, and building systems that are not just functional - but intelligent.
+
 ---
 
 # 🚀 Tech Stack
@@ -56,40 +69,24 @@
 </p>
 
 ---
-<!--
+
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Iqra-Fatima-07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" 
-    height="190"
-  />
-</p>
+
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Iqra-Fatima-07&theme=radical&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" 
     height="190"
   />
-</p>>
----
-# 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Iqra-Fatima-07&theme=github-compact&bg_color=0D1117&color=ff69b4&line=ff69b4&point=ffffff&hide_border=true"
-  />
 </p>
----
+
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iqra-Fatima-07/Iqra-Fatima-07/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/Iqra-Fatima-07/Iqra-Fatima-07/output/github-contribution-grid-snake.svg)
 
----
-
+<!---
 # ⏳ Coding Activity
 
 <p align="center">
@@ -97,12 +94,17 @@
 </p>
 
 ---->
+
+ # 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iqra-Fatima-07&bg_color=0d1117&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=true" />
+</p>
+
 # ✨ Quote I Believe In
 
-> 💗 Think. Build. Evolve.*
-
+>"Great code isn't just written; it is engineered with logic, fueled by data, and refined by an obsession for growth."
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984E3,50:E84393,100:6C5CE7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,40:7209B7,70:9D4EDD,100:B5179E&height=200&section=footer&text=%F0%9F%92%97%20Think.%20Build.%20Evolve.&fontSize=35&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
 </p>
